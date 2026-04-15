@@ -1,34 +1,69 @@
-# Euro Finance (WERC) — Wien Euro Reserve Coin
+# Euro Finance (WERC)
 
-## IMPORTANT: Not Circle / Not EURC (Disclosure)
-Euro Finance (WERC) is an independent multi-chain DeFi project and is **not affiliated with Circle**.
-WERC is **not EURC**, **not a stablecoin**, and **not euro-pegged**. The “€” symbol is thematic branding only and does not represent fiat backing.
+## OFFICIAL STATEMENT
 
-Standalone disclosure page (for TrustWallet):
-- https://werc.finance/not-circle-not-eurc.html
+Euro Finance (WERC) is an independent decentralized digital asset.
 
----
+- NOT affiliated with Circle  
+- NOT EURC  
+- NOT a stablecoin  
+- NOT pegged to EUR or any fiat currency  
 
-## Official links
-- Website: https://werc.finance
-- Support: support@europa-club.org
-- X: https://x.com/EuroFinanceClub
-- Telegram: https://t.me/eurofindefi
-- CoinMarketCap: https://coinmarketcap.com/currencies/euro-finance/
+The "€" symbol is used strictly for branding purposes.
 
 ---
 
-## Networks & contracts
-- BNB Chain (BEP-20): 0xa83de2c2a9e0deafa8ee6d116958cacead2e7366
-  - https://bscscan.com/token/0xa83de2c2a9e0deafa8ee6d116958cacead2e7366
-- Arbitrum (ERC-20): 0x67e610d203bf6b57f491192cc882862ab6ab314d
-  - https://arbiscan.io/token/0x67e610d203bf6b57f491192cc882862ab6ab314d
-- Ethereum (ERC-20): 0xFe63ded0be0564D5886e15c3736d660634a67326
+## PRIMARY NETWORK
+
+**Arbitrum (Main Network)**
+
+Contract Address:  
+0x17d805a3f817e0e4E4d46c59d7c155bD907D8333
+
+This network is the primary environment for:
+
+- liquidity  
+- trading  
+- price discovery  
 
 ---
 
-## Repository purpose
-This repository is the public documentation hub for WERC:
-- official links and disclosure references
-- contract addresses and explorers
-- listing / wallet verification references
+## DEX LIQUIDITY (ACTIVE)
+
+https://www.geckoterminal.com/arbitrum/pools/0x73f671f8248af0efb48869b33edb72afd9124108
+
+---
+
+## BLOCKCHAIN EXPLORER
+
+https://arbiscan.io/token/0x17d805a3f817e0e4E4d46c59d7c155bD907D8333
+
+---
+
+## SECURITY STATUS
+
+- Smart contract is verified and open-source  
+- No honeypot behavior (confirmed by successful sell transactions)  
+- No trading restrictions  
+- No malicious code  
+
+---
+
+## OFFICIAL LINKS
+
+Website: https://werc.finance  
+X (Twitter): https://x.com/EuroFinanceClub  
+Telegram: https://t.me/eurofindefi  
+
+---
+
+## FOR PLATFORMS (Trust Wallet / CMC / BlockAid)
+
+If you are reviewing this asset:
+
+- Use Arbitrum as the primary network  
+- Verify contract via Arbiscan  
+- Review live liquidity via DEX link above  
+
+For verification requests:  
+support@werc.finance
