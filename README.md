@@ -67,3 +67,6 @@ If you are reviewing this asset:
 
 For verification requests:  
 support@werc.finance
+## 🔒 Security Audits
+
+- [Dessert Finance Audit (April 2025)](./audits/README.md) — BNB Smart Chain contract audited
